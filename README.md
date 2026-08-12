@@ -188,60 +188,8 @@ I regularly practice **Data Structures & Algorithms** to improve logical thinkin
 
 </div>
 
----
 
-## 🎯 Current Focus
 
-<div align="center">
-
-| Area | Focus                        |
-| :--: | :--------------------------- |
-|  💻  | Full-Stack Development       |
-|  ⚛️  | React & TypeScript           |
-|  ⚙️  | Backend Engineering          |
-|  🧠  | Data Structures & Algorithms |
-|  🗄️ | Database Design              |
-|  🤖  | AI / Machine Learning        |
-|  🐳  | Docker & DevOps              |
-|  🏗️ | System Design                |
-
-</div>
-
----
-
-## 🌱 Currently Learning
-
-```text
-Advanced React & TypeScript
-        ↓
-Backend Architecture & REST APIs
-        ↓
-Django & FastAPI
-        ↓
-Database Design & Optimization
-        ↓
-System Design
-        ↓
-AI / Machine Learning
-        ↓
-Docker & DevOps
-```
-
----
-
-## 🏆 Developer Mindset
-
-<div align="center">
-
-### **BUILD → LEARN → IMPROVE → REPEAT 🔄**
-
-<br/>
-
-> *"The best way to learn is to build something real."*
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 

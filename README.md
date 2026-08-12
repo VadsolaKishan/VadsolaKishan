@@ -77,25 +77,25 @@ I enjoy turning ideas into **clean, responsive, and scalable software**, while c
 
 <td width="50%">
 
-### 🏥 Clinic Management System
+### 🏥 <a href="https://github.com/VadsolaKishan/HMS">HMS (Hospital Management System)</a>
 
-A full-stack healthcare management platform designed to manage patients, doctors, appointments, medical records, and administrative workflows.
+A full-stack healthcare & hospital management platform designed to manage patients, doctors, appointments, medical records, and administrative workflows.
 
-**Tech Stack**
+**Tech Stack & Links**
 
-`React` `Django` `MySQL`
+`React` `Django` `MySQL` • [Repository](https://github.com/VadsolaKishan/HMS)
 
 </td>
 
 <td width="50%">
 
-### 🏢 VendorBridge
+### 📄 <a href="https://github.com/VadsolaKishan/Contract_intelligence">Contract Intelligence Platform</a>
 
-An enterprise procurement and vendor management platform for managing vendors, purchasing workflows, and business operations.
+An intelligent document analysis platform designed to process contracts, extract critical information, and simplify legal contract workflows.
 
-**Tech Stack**
+**Tech Stack & Links**
 
-`React` `Node.js` `Express` `TypeScript` `PostgreSQL` `Prisma`
+`React` `TypeScript` `FastAPI` `Python` `Docker` • [Repository](https://github.com/VadsolaKishan/Contract_intelligence)
 
 </td>
 
@@ -105,25 +105,25 @@ An enterprise procurement and vendor management platform for managing vendors, p
 
 <td width="50%">
 
-### 📄 Contract Intelligence Platform
+### 📦 <a href="https://github.com/VadsolaKishan/Inventory_Management_System">Inventory Management System</a>
 
-A document analysis platform designed to process contracts, extract important information, and simplify contract-related workflows.
+A comprehensive stock and inventory system built to track products, manage supplier data, streamline purchase orders, and monitor real-time stock levels.
 
-**Tech Stack**
+**Tech Stack & Links**
 
-`React` `TypeScript` `FastAPI` `Python` `Redis` `Qdrant` `Docker`
+`React` `Node.js` `Express` `PostgreSQL` • [Repository](https://github.com/VadsolaKishan/Inventory_Management_System)
 
 </td>
 
 <td width="50%">
 
-### 🎓 Student Services Portal
+### 🚚 <a href="https://github.com/VadsolaKishan/Odoo-Hackathon">TransOps (Odoo Hackathon 2025)</a>
 
-A centralized student platform for managing academic profiles, results, events, feedback, and student services.
+TransOps — An innovative logistics, transportation, and operations management platform built for the Odoo Hackathon 2025 (Qualified Top 250 Teams among 19,000+ teams).
 
-**Tech Stack**
+**Tech Stack & Links**
 
-`HTML` `CSS` `JavaScript`
+`Python` `JavaScript` `Odoo` • [Repository](https://github.com/VadsolaKishan/Odoo-Hackathon)
 
 </td>
 

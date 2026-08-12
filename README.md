@@ -6,8 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00A8FF&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Full-Stack+Development;Data+Structures+%26+Algorithms;Exploring+AI+%26+Machine+Learning;Always+Learning+%7C+Always+Building" />
 
-<br/>
-
 </div>
 
 ---

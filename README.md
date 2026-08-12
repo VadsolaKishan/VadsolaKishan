@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Kishan Vadsola
-### 🎓 Computer Engineering Student | 💻 Full-Stack & AI/ML Developer | 🚀 Open Source Enthusiast
+### 🎓 Computer Engineering Student | 💻 Full-Stack & AI/ML Developer
 
 <br />
 

@@ -2,23 +2,11 @@
 
 # 👋 Hey, I'm **Kishan Vadsola**
 
-### `Computer Engineering Student` • `Full-Stack Developer` • `Problem Solver`
+### `Computer Engineering Student` • `Full-Stack Developer`
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00A8FF&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Full-Stack+Development;Data+Structures+%26+Algorithms;Exploring+AI+%26+Machine+Learning;Always+Learning+%7C+Always+Building" />
 
 <br/>
-
-<a href="https://github.com/VadsolaKishan">
-<img src="https://img.shields.io/github/followers/VadsolaKishan?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=181717" />
-</a>
-
-<a href="https://github.com/VadsolaKishan?tab=repositories">
-<img src="https://img.shields.io/github/stars/VadsolaKishan?label=Stars&style=for-the-badge&logo=github&logoColor=white&color=yellow" />
-</a>
-
-<a href="https://www.linkedin.com/in/kishan-vadsola-a68b05331/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 
 </div>
 
